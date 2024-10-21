@@ -1,3 +1,4 @@
 hello, We are Learing git and git hub.
 lets write a new line
 how will i resolve a conflict
+we are creating a conflict.
